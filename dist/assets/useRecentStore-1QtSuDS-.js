@@ -1,0 +1,1 @@
+import{F as c,I as n}from"./index-UiVTYccU.js";const m=c(n((t,s)=>({items:[],addRecent(e){const i=[e,...s().items.filter(r=>r.id!==e.id)].slice(0,12);t({items:i})},setItems(e){t({items:e})}}),{name:"zexto:recent"}));export{m as u};
